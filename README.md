@@ -43,6 +43,7 @@
   <a href="https://www.linkedin.com/in/poleac-liviu-stefan/" target="_blank"><img src="https://img.shields.io/badge/Poleac Liviu Stefan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:stefan.liviu286@gmail.com" target="_blank"><img src="https://img.shields.io/badge/stefan.liviu286@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.github.com/PoleacLiviuStefan" target="_blank"><img src="https://img.shields.io/badge/PoleacLiviuStefan-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://poleacliviustefan.works/" target="_blank"><img src="https://img.shields.io/badge/my%20personal%20website-purple?style=for-the-badge&logo=airplayvideo" alt="Website"/></a>
 </p>
 
 
