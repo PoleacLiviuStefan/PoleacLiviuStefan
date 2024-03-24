@@ -2,6 +2,7 @@
 
 
 <p>
+	<b>
 				Currently a student passionate about Full Stack
 				programming with little experience in crafting 
 				dynamic and visually appealing web experiences.
@@ -16,6 +17,7 @@
 				I am committed to continuously updating my skills 
 				in line with the latest trends in the fast-paced world 
 				of programming.
+		</b>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
