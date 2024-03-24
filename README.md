@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Poleac Liviu Stefan
+### Hey 👋 I'm Poleac Liviu Stefan
 
 
-<p>
-	<b>
+<p >
+	<b >
 				Currently a student passionate about Full Stack
 				programming with little experience in crafting 
 				dynamic and visually appealing web experiences.
@@ -40,15 +40,16 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/poleac-liviu-stefan/" target="blank"><img align="center" src="https://img.shields.io/badge/Poleac Liviu Stefan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:stefan.liviu286@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/stefan.liviu286@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/PoleacLiviuStefan" target="blank"><img align="center" src="https://img.shields.io/badge/PoleacLiviuStefan-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/poleac-liviu-stefan/" target="_blank"><img src="https://img.shields.io/badge/Poleac Liviu Stefan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:stefan.liviu286@gmail.com" target="_blank"><img src="https://img.shields.io/badge/stefan.liviu286@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.github.com/PoleacLiviuStefan" target="_blank"><img src="https://img.shields.io/badge/PoleacLiviuStefan-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
- <p> 
-    <img src="https://github-readme-stats.vercel.app/api?username=poleacliviustefan&count_private=true&show_icons=true&theme=dark&line" alt="poleacliviustefan Stats" width="420"/> 
- </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poleacliviustefan&theme=dark&layout=compact" alt="poleacliviustefan" /></p>
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=poleacliviustefan&count_private=true&show_icons=true&theme=dark&line" alt="poleacliviustefan Stats" width="450"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poleacliviustefan&theme=dark&layout=compact" alt="poleacliviustefan" width="340" /></p>
 </div>
