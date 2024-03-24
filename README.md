@@ -28,10 +28,12 @@
   <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+	<br/>
   <img src="https://skillicons.dev/icons?i=react" alt="React" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+	<br/>
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" /> <!-- Note the correction for C# -->
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
