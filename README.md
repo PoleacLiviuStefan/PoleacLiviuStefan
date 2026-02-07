@@ -3,8 +3,7 @@
 
 <p >
 	<b >
-				Currently a student passionate about Full Stack
-				programming with little experience in crafting 
+				Software Engineer with experience in crafting 
 				dynamic and visually appealing web experiences.
 				Proficient in HTML, CSS, Tailwind CSS, JavaScript,
 				ReactJS and NodeJS, focused on front-end.
